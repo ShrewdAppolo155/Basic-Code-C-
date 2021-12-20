@@ -1,0 +1,4 @@
+var name = "Kyle Dutton";
+var date = DateTime.Now;
+var item = (Name: "Ego Waffles", Price: 3.99m, perPackage: 3);
+Console. WriteLine($"Hello, {name}. The date today is  {date}, and you can purchace {item.Name} from Kroger for {item.Price}. ");
